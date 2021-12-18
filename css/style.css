@@ -10,13 +10,12 @@ nav ul {
     text-align: center;
     margin:0px;
     padding: 0; 
-    height:70px;
-    width:100%;
+   
 }
 
 nav li {
 font-size: 1.2em;
-line-height: 70px;
+line-height: 40px;
 height: 40px;
 display: inline-block;
 margin: 2.5%;
@@ -26,7 +25,7 @@ nav a {
     text-decoration: none;
     color:#fff;
     display:block;
-    margin-left:20px;
+
 }
 nav a:hover {
     background-color: #fff;
